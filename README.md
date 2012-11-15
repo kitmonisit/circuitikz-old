@@ -1,4 +1,4 @@
-# CircuiTiKZ
+# CircuiTikZ
 
 This is a "fork" of the [CircuiTikZ][1] package by Massimo Redaelli.
 
