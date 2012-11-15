@@ -6,6 +6,7 @@ I added a fully differential amplifier `fd op amp`.
 
 ## Example usage
 
+    ```latex
     \documentclass[preview, convert]{standalone}
 
     \usepackage[siunitx]{circuitikz}
