@@ -1,6 +1,6 @@
 # CircuiTiKZ
 
-This is a "fork" of the [CircuiTiKZ][1] package by Massimo Redaelli.
+This is a "fork" of the [CircuiTikZ][1] package by Massimo Redaelli.
 
 I added a fully differential amplifier `fd op amp`.
 
