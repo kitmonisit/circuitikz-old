@@ -30,6 +30,6 @@ I added a fully differential amplifier `fd op amp`.
     \end{tikzpicture}
     \end{document}
 
-![Fully differential operational amplifier](/example/main.png)
+![Fully differential operational amplifier](https://raw.github.com/kitmonisit/circuitikz/master/example/main.png)
 
 [1]: http://www.ctan.org/pkg/circuitikz
